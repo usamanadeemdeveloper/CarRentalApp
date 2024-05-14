@@ -1,7 +1,8 @@
 package org.carrental.Services;
 
 import org.carrental.Repository.UserDao;
-import org.carrental.Model.User;
+import org.carrental.Model.User;git remote set-url origin https://github.com/usamanadeemdeveloper/CarRentalApp.git
+
 
 public class AuthenticationService {
     UserDao userDao = new UserDao();
